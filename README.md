@@ -68,6 +68,8 @@ Response:
 
 Open [http://localhost:8080/h2-console](http://localhost:8080/h2-console) — JDBC URL: `jdbc:h2:mem:midterm`
 
+![H2 Console](docs/screenshots/h2-console.png)
+
 ## Validation
 
 - User name: `@NotBlank`, `@Size(min=2, max=100)`
