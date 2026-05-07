@@ -44,6 +44,26 @@ The app starts at `http://localhost:8080`.
 
 Open [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) to explore and test all endpoints.
 
+### Screenshot — Swagger Overview
+
+![Swagger UI Overview](docs/screenshots/swagger-overview.png)
+
+### Screenshot — Tasks & DTO Schemas
+
+![Swagger Tasks & Schemas](docs/screenshots/swagger-tasks-schemas.png)
+
+### Screenshot — Get User by ID
+
+![Swagger Get User by ID](docs/screenshots/swagger-get-user.png)
+
+### Screenshots — Update User (PUT)
+
+Request:
+![Swagger PUT Request](docs/screenshots/swagger-put-request.png)
+
+Response:
+![Swagger PUT Response](docs/screenshots/swagger-put-response.png)
+
 ## H2 Console
 
 Open [http://localhost:8080/h2-console](http://localhost:8080/h2-console) — JDBC URL: `jdbc:h2:mem:midterm`
